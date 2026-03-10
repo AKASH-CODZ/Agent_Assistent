@@ -1,0 +1,98 @@
+[
+  {
+    "id": "trade-mirror-project",
+    "title": "Trade-Mirror Algorithmic Trading Platform",
+    "description": "A sophisticated algorithmic trading platform that integrates with Zerodha and Shoonya APIs for real-time market analysis and automated trading execution with advanced risk management features.",
+    "technologies": ["Python", "FastAPI", "WebSocket", "PostgreSQL", "Redis", "Zerodha Kite Connect API", "Shoonya Noren API", "Docker"],
+    "features": [
+      "Real-time market data streaming and analysis",
+      "Automated trading strategy execution",
+      "SHA-256 data integrity verification",
+      "Advanced risk management with stop-loss mechanisms",
+      "Performance analytics dashboard",
+      "RESTful API for external integrations",
+      "Multi-broker support and failover mechanisms"
+    ],
+    "category": "trading",
+    "complexity": "high",
+    "github_url": "https://github.com/yourusername/trade-mirror"
+  },
+  {
+    "id": "portfolio-website",
+    "title": "Personal Portfolio Website",
+    "description": "Modern responsive portfolio website built with Next.js 14 featuring smooth animations, dark/light themes, and optimized performance with excellent Lighthouse scores.",
+    "technologies": ["Next.js 14", "React 18", "TypeScript", "Tailwind CSS", "Framer Motion", "Vercel", "MDX"],
+    "features": [
+      "Fully responsive design with mobile-first approach",
+      "Dark/light theme toggle with system preference detection",
+      "Smooth animations and micro-interactions",
+      "SEO optimized with meta tags and structured data",
+      "Performance optimized (Lighthouse scores >95)",
+      "Contact form with email integration",
+      "Blog section with MDX support",
+      "CI/CD pipeline with automatic deployments"
+    ],
+    "category": "web-development",
+    "complexity": "medium",
+    "live_url": "https://your-portfolio.vercel.app"
+  },
+  {
+    "id": "ai-assistant-backend",
+    "title": "AI Assistant Backend API",
+    "description": "Production-grade FastAPI backend implementing Retrieval Augmented Generation (RAG) with Pinecone vector database and Groq LLM integration for intelligent portfolio querying.",
+    "technologies": ["FastAPI", "Python 3.9+", "Pinecone", "Groq LLM API", "Sentence Transformers", "Docker", "Uvicorn", "Pydantic"],
+    "features": [
+      "RAG (Retrieval Augmented Generation) implementation",
+      "Semantic search capabilities with vector embeddings",
+      "Role-based response personalization (recruiter/developer/visitor)",
+      "RESTful API with comprehensive OpenAPI documentation",
+      "Industrial-grade project structure with modular design",
+      "Comprehensive logging and error handling",
+      "Health check endpoints and monitoring",
+      "Docker containerization ready"
+    ],
+    "category": "ai-ml",
+    "complexity": "high",
+    "architecture": "microservice"
+  },
+  {
+    "id": "technical-skills",
+    "title": "Technical Skills Overview",
+    "description": "Comprehensive skill set covering full-stack development, machine learning, cloud infrastructure, and modern development practices with industry certifications.",
+    "technologies": ["Python", "JavaScript/TypeScript", "FastAPI", "Django", "React", "Next.js", "Node.js", "PostgreSQL", "MongoDB", "Redis"],
+    "skills": [
+      "Full-stack web development",
+      "Machine Learning and AI integration",
+      "Cloud infrastructure and DevOps",
+      "API design and development",
+      "Database design and optimization",
+      "System architecture and scalability",
+      "Technical leadership and mentoring",
+      "Agile development methodologies"
+    ],
+    "certifications": [
+      "AWS Certified Cloud Practitioner",
+      "Google IT Automation with Python",
+      "Microsoft Azure Fundamentals"
+    ],
+    "category": "skills",
+    "complexity": "varied",
+    "years_experience": "3+"
+  },
+  {
+    "id": "professional-experience",
+    "title": "Professional Experience Highlights",
+    "description": "Demonstrated experience in building scalable applications, leading technical projects, and delivering high-quality software solutions in agile environments.",
+    "technologies": ["Full-stack Development", "Cloud Architecture", "Team Leadership", "Project Management"],
+    "achievements": [
+      "Reduced API response times by 60% through optimization",
+      "Improved system reliability to 99.9% uptime",
+      "Led team of 5 developers in successful product launches",
+      "Implemented CI/CD pipelines reducing deployment time by 75%",
+      "Mentored junior developers and conducted code reviews"
+    ],
+    "category": "experience",
+    "complexity": "advanced",
+    "work_environment": "agile"
+  }
+]
